@@ -6,7 +6,8 @@ Adafruit Feather M4 + propmaker wing + Neopixel lightsaber
 
 ## Features
 * Power button with breathing LED
-* Low battery indicator
+ * Low battery indicator (fast flashing)
+* Auto shut down when idle
 * Multi-blade support
   * Press and hold power button for 2s to enter setup mode
   * Press to select blade
