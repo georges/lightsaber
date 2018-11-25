@@ -1,5 +1,7 @@
 # lightsaber
 
+![alt text](https://raw.githubusercontent.com/georges/lightsaber/master/docs/lightsaber.jpg)
+
 Adafruit Feather M4 + propmaker wing + Neopixel lightsaber
 
 ## Features
