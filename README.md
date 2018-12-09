@@ -16,15 +16,14 @@ Adafruit Feather M4 + propmaker wing + Neopixel lightsaber
 
 ## Regular lighsaber
 
-<iframe src="https://player.vimeo.com/video/305371366" width="100%"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/305371366" width="600"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Setup mode
 
-<iframe src="https://player.vimeo.com/video/305371363" width="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/305371363" width="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Xmas mode
 
-<iframe src="https://player.vimeo.com/video/305371357" width="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/305371357" width="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-
-Based on [https://github.com/adafruit/Adafruit_Learning_System_Guides/tree/master/Hallowing_Lightsaber]
+Based on [Hallowing Lightsaber](https://github.com/adafruit/Adafruit_Learning_System_Guides/tree/master/Hallowing_Lightsaber)
