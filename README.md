@@ -14,7 +14,7 @@ Adafruit Feather M4 + propmaker wing + Neopixel lightsaber
   * Press and hold to exit
 
 
-## Regular lighsaber
+## Regular lightsaber
 
 <iframe src="https://player.vimeo.com/video/305371366" width="600" height="400"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -22,7 +22,7 @@ Adafruit Feather M4 + propmaker wing + Neopixel lightsaber
 
 <iframe src="https://player.vimeo.com/video/305371363" width="600" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-## Xmas mode
+## Xmas lightsaber
 
 <iframe src="https://player.vimeo.com/video/305371357" width="600" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
